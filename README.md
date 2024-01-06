@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**santhosh-005/santhosh-005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Santhosh and I'm a college student passionate about coding.
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Python
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Connect with Me
+- [LinkedIn]()
+- [Portfolio]()
