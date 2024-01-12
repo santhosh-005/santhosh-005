@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Santhosh and I'm a college student passionate about coding.
+I'm Santhosh, a college student passionate about programming and tech.
 
 ## Tech I used to Build
 - HTML
