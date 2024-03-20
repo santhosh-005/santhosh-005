@@ -1,9 +1,9 @@
 <h1 align='center'> Hi there! 👋</h1>
 <h3 align='center'>This is Santhosh, a college student passionate about programming and tech</h3>
 
-- ✨ Frondend Developer 
+- ✨ Full-Stack Developer 
 - 🔭 I’m currently studing on Kalvium
-- 🌱 I’m currently learning Full Stack Development
+
  <img align="right" height="200" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 #### Tech I used to Build
