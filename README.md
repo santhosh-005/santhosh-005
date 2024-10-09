@@ -2,7 +2,7 @@
 <h3 align='center'>This is Santhosh, a college student passionate about programming and tech</h3>
 
 - ✨ Full-Stack Developer 
-- 🔭 I’m currently studing on Kalvium
+- 🔭 Studing at Kalvium
 
  <img align="right" height="200" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
