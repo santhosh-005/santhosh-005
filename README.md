@@ -16,5 +16,5 @@
 - Chat Me On <a href="https://www.instagram.com/ultracoder_005" target="_blank">INSTAGRAM</a>
 
 
-![ShowPR](https://show-pr.vercel.app/embed/image/santhosh-005?time=10)
+[![ShowPR](https://show-pr.vercel.app/embed/image/santhosh-005?v=1)](https://show-pr.vercel.app)
 
