@@ -16,5 +16,5 @@
 - Here My Profile On <a href="www.linkedin.com/in/santhosh-kumar-81744b2aa" target="_blank">LINKEDIN</a>
 - Chat Me On <a href="https://www.instagram.com/ultracoder_005" target="_blank">INSTAGRAM</a>
 
-[![ShowPR](https://show-pr.vercel.app/embed/image/santhosh-005?v=1)](https://show-pr.vercel.app)
+[![ShowPR](https://show-pr.vercel.app/embed/image/santhosh-005?v=2)](https://show-pr.vercel.app)
 
