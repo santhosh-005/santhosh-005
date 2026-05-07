@@ -2,7 +2,7 @@
 <h3 align='center'>This is Santhosh, a college student passionate about programming and tech</h3>
 
 ## 💫 About Me:
- <img align="right" height="200" width="300"  hspace="30" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+ <img align="right" height="190" width="290"  hspace="30" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
  <img width="40" />
 I'm Santhosh - a full-stack developer and passionate about building real-world solutions that are simple, effective, and user-friendly.<br><br>I’ve worked with MERN, Python, AWS, and more - but honestly, I don’t believe in limiting myself to a list of languages. In today’s world, with the right mindset and the help of AI, we can pick up what’s needed and build as we go, which maybe framework, language or anything. It’s all about solving problems, not sticking to tools.
 
