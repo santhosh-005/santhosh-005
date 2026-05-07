@@ -1,6 +1,3 @@
-<h1 align='center'> Hi there! 👋</h1>
-<h3 align='center'>This is Santhosh, a college student passionate about programming and tech</h3>
-
 ## 💫 About Me:
  <img align="right" height="190" width="290"  hspace="30" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
  <img width="40" />
